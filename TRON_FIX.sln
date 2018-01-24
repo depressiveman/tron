@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2006
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TRON_FIX", "TRON_FIX\TRON_FIX.vcxproj", "{50DF4E23-628A-49BA-B935-4D23E1F7AF36}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{50DF4E23-628A-49BA-B935-4D23E1F7AF36}.Debug|x64.ActiveCfg = Debug|x64
+		{50DF4E23-628A-49BA-B935-4D23E1F7AF36}.Debug|x64.Build.0 = Debug|x64
+		{50DF4E23-628A-49BA-B935-4D23E1F7AF36}.Debug|x86.ActiveCfg = Debug|Win32
+		{50DF4E23-628A-49BA-B935-4D23E1F7AF36}.Debug|x86.Build.0 = Debug|Win32
+		{50DF4E23-628A-49BA-B935-4D23E1F7AF36}.Release|x64.ActiveCfg = Release|x64
+		{50DF4E23-628A-49BA-B935-4D23E1F7AF36}.Release|x64.Build.0 = Release|x64
+		{50DF4E23-628A-49BA-B935-4D23E1F7AF36}.Release|x86.ActiveCfg = Release|Win32
+		{50DF4E23-628A-49BA-B935-4D23E1F7AF36}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {36A0210E-C269-4121-ADD1-230EFF69CCA9}
+	EndGlobalSection
+EndGlobal
