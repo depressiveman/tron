@@ -261,6 +261,8 @@ int main() {
 
 					player1_x = 300;
 					player1_y = 400;
+					player2_x = 200;
+					player2_y = 300;
 					lives = lives - 1;
 					cout << lives << endl;
 				}
@@ -281,6 +283,8 @@ int main() {
 
 					player1_x = 300;
 					player1_y = 400;
+					player2_x = 200;
+					player2_y = 300;
 					lives = lives - 1;
 					cout << lives << endl;
 				}
@@ -302,6 +306,8 @@ int main() {
 
 					player1_x = 300;
 					player1_y = 400;
+					player2_x = 200;
+					player2_y = 300;
 					lives = lives - 1;
 					cout << lives << endl;
 				}
@@ -322,6 +328,8 @@ int main() {
 
 					player1_x = 300;
 					player1_y = 400;
+					player2_x = 200;
+					player2_y = 300;
 					lives = lives - 1;
 					cout << lives << endl;
 				}
@@ -344,7 +352,8 @@ int main() {
 						}
 					}
 
-
+					player1_x = 300;
+					player1_y = 400;
 					player2_x = 200;
 					player2_y = 300;
 					lives2 = lives2 - 1;
@@ -366,6 +375,8 @@ int main() {
 					}
 
 
+					player1_x = 300;
+					player1_y = 400;
 					player2_x = 200;
 					player2_y = 300;
 					lives2 = lives2 - 1;
@@ -387,6 +398,8 @@ int main() {
 					}
 
 
+					player1_x = 300;
+					player1_y = 400;
 					player2_x = 200;
 					player2_y = 300;
 					lives2 = lives2 - 1;
@@ -407,6 +420,8 @@ int main() {
 					}
 
 
+					player1_x = 300;
+					player1_y = 400;
 					player2_x = 200;
 					player2_y = 300;
 					lives2 = lives2 - 1;
@@ -416,9 +431,9 @@ int main() {
 
 
 				if (state == DEAD) {
-					if (key[KEY_ENTER] == true)
+					if (key[KEY_ENTER] == true) 
 						state = ALIVE;
-
+					
 				}
 			}
 
